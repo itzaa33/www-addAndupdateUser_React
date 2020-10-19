@@ -1,0 +1,31 @@
+.list-data
+{
+  display: grid;
+  grid-gap: 20px;
+  
+  padding:30px 16px;
+  margin: 40px 0;
+
+  background-color:#e9ecef;
+}
+
+.data
+{
+  padding:20px 16px;
+  background-color: white;
+}
+
+.data > h1
+{
+  font-size: 28px;
+}
+
+.data > h2
+{
+  font-size: 20px;
+}
+
+.data > button
+{
+  margin-top: 10px;
+}
